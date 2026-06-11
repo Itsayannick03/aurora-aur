@@ -1,6 +1,7 @@
 # Maintainer: Yannick Winkler <jaxterlp@gmail.com>
 
-pkgname=aurora
+pkgname=aurora-update-assistant
+_pkgname=aurora
 pkgver=1.0.0
 pkgrel=1
 pkgdesc="A lightweight Linux assistant/helper with systemd timer support"
